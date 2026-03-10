@@ -178,6 +178,14 @@ print("- interactive_segments.html")
 
 ## Output:
 <img width="1240" height="416" alt="image" src="https://github.com/user-attachments/assets/757e4ce8-868b-4aba-9cea-7fa7182bdd4d" />
+<img width="877" height="545" alt="image" src="https://github.com/user-attachments/assets/5d2d32b6-9e35-4c3c-9476-0b1670125caa" />
+
+<img width="690" height="223" alt="image" src="https://github.com/user-attachments/assets/b4ae7385-402c-4252-a1ce-e9f08a611552" />
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/1f6fc2e6-9d89-48ec-a33f-20b042e4d4a9" />
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/84402fee-2046-42b1-b7fc-e5936ffe777f" />
+<img width="1101" height="395" alt="image" src="https://github.com/user-attachments/assets/26c9556b-70be-4f59-b0a1-2674cb1b9bb6" />
+<img width="682" height="231" alt="image" src="https://github.com/user-attachments/assets/2d9e2ff1-c163-4156-8b26-7af799dcb790" />
+<img width="713" height="371" alt="image" src="https://github.com/user-attachments/assets/f8815ab6-df51-45bd-9e55-92fafa5d2d1e" />
 
 
 
